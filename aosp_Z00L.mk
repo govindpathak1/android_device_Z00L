@@ -1,7 +1,7 @@
 $(call inherit-product, device/asus/Z00L/full_Z00L.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/pure/configs/pure_main.mk)
+$(call inherit-product, vendor/pa/main.mk)
 
 PRODUCT_NAME := aosp_Z00L
 PRODUCT_BRAND := asus
