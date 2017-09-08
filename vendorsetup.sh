@@ -1,1 +1,1 @@
-add_lunch_combo aoscp_Z00L-userdebug
+add_lunch_combo aosp_Z00L-userdebug
