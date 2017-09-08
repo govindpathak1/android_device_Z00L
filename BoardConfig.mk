@@ -32,3 +32,5 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # inherit from the proprietary version
 -include vendor/asus/Z00L/BoardConfigVendor.mk
+USE_CUSTOM_AUDIO_POLICY = 0
+TARGET_USES_QCOM_WCNSS_QMI := false
